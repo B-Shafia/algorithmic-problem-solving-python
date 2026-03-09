@@ -1,2 +1,8 @@
 # algorithmic-problem-solving-python
-DSA Implementations
+
+This repository contains my implementations of classic Data Structures and Algorithms problems in Python as part of my MSDS coursework.
+
+Topics covered:
+- Recursion
+- Greedy Algorithms
+
